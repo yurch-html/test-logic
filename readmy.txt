@@ -1,0 +1,7 @@
+1. Install all dependencies ( npm i ).
+2. Get started and see the changes ( gulp watch ).
+3. Collect a project ( gulp build ).
+
+
+Development directory: src;
+Release directory: build;
